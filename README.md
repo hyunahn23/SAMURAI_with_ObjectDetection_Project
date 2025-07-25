@@ -39,4 +39,4 @@ wget https://dl.fbaipublicfiles.com/segment_anything_2/092824/sam2.1_hiera_small
 ---
 
 ## Result
-![Result GIF](https://raw.githubusercontent.com/hyunahn23/SAMURAI_with_ObjectDetection_Project/main/result.gif)
+![Result GIF](https://raw.githubusercontent.com/hyunahn23/SAMURAI_with_ObjectDetection_Project/main/1.gif)
