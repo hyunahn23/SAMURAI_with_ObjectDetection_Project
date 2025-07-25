@@ -1,6 +1,6 @@
 # SAMURAI_with_ObjectDetection_Project
 SegmentAnything Model v2를 활용한 모델인 SAMURAI. 객체 분할 기법에 추적 모듈을 통해 개선한 방법.
-SegmentAnything Model v2를 이용하여 좌표를 찍을 필요 없이 원하는 객체탐지를 바로 한 후에, 트래킹 기능 구현.
+Yolov11을 이용하여 좌표를 찍을 필요 없이 원하는 객체탐지를 바로 한 후에, 트래킹 기능 구현.
 ---
 
 ## 환경 설정
